@@ -6,4 +6,4 @@ type = "speaker"
 linktitle = "fernando-iquiza"
 +++
 
-Nearly 7 years of extensive industry experience in cloud-based solutions for Non-Profit, cloud provider, Telecommunications, Higher Education, and Medical research leading companies.
+Ing. en Sistemas, SDET, DevOps & Cloud Engineer, Docente universitario, promotor del aprendizaje y mejora contínua, las habilidades blandas, y el de poder compartir conocimiento; CCNA alumni, fan de la música clásica y ópera; cinéfilo y bibliófilo.
